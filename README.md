@@ -10,3 +10,5 @@ Dataset yang digunakan: https://universe.roboflow.com/rb-jmvya/screw-detector-qk
 Hasil UI demo: https://drive.google.com/file/d/1VOCHTfEOOSRPK8lbfpgoxe_WpyGHUWpe/view?usp=sharing https://drive.google.com/file/d/1qy_iOE8zXdSaQrC9p3jVArRgsGNHj4rB/view?usp=sharing
 
 Pastikan semua file dalam repository ini berada dalam "Drive Saya" milik Anda jika ingin mencoba menggunakan dan memasukkan tiap file dalam Google Drive
+
+Disarankan untuk menjalankan runtime dengan GPU
